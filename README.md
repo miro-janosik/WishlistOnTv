@@ -23,3 +23,6 @@ Then movies that I have not see and have high scores on IMDB / CSFD
 
 ## Getting TV program data
 
+* xmltv sounds good, but for SK/EU it says:
+  * The tv_grab_eu_epgdata(1) grabber is a XMLTV grabber for the commercial www.epgdata.com service. Currently, you get a full year of EPG listings for EUR 17.95.
+  *
